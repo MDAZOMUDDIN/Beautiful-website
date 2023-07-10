@@ -1,8 +1,25 @@
-header{
-    font-size: smaller;
+.about{
     text-align: center;
-    background-color: blue;
 }
 .sayem{
     display: flex;
+    justify-content:space-between
+}
+.what{
+    text-align: center;
+}
+.paragraph{
+    text-align: center;
+    width: auto 30px;
+}
+.shakib{
+    display: flex;
+}
+.rahim{
+width: 200px;
+height: 100px;
+gap: 50px;
+padding: 50px;
+background-color: antiquewhite;
+
 }
